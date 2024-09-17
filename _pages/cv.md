@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# Preview my CV
-
 <iframe src="/files/Vita_YL.pdf" width="100%" height="600px"></iframe>
