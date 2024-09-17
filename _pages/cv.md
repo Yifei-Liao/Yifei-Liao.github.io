@@ -34,4 +34,4 @@ redirect_from:
 
 # Preview my CV
 
-<iframe src="/assets/Vita_YL.pdf" width="100%" height="600px"></iframe>
+<iframe src="/files/Vita_YL.pdf" width="100%" height="600px"></iframe>
