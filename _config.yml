@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yifei Liao / Personal Homepage"
+title                    : "Yifei Liao"
 title_separator          : "-"
 name                     : &name "Yifei Liao"
 description              : &description "a fifth-year accounting Ph.D. student"
@@ -27,9 +27,9 @@ author:
   bio              : "Ph.D. Candidate in Accounting at Merage Business School, University of California, Irvine"
   location         : "Irvine, CA"
   email            : "yliao18@uci.edu" 
+  SSRN             : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480
 
   # Academic websites
-  SSRN             : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
