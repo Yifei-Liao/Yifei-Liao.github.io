@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yifei Liao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yifei Liao"
-description              : &description "a fourth-year accounting Ph.D. student"
+description              : &description "a fifth-year accounting Ph.D. student"
 url                      : https://Yifei-Liao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yifei-Liao/Yifei-Liao.github.io"
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
