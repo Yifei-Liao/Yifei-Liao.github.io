@@ -41,8 +41,8 @@ author_profile: true
 
 "The instructor demonstrates remarkable patience, making even the most complex topics approachable and understandable. Their sense of humor brings a refreshing and engaging atmosphere to the classroom, making learning enjoyable. The instructor genuinely cares about the students, always taking the time to ensure everyone feels supported and understood. They actively encourage participation, creating an inclusive environment where every student's voice is valued. This approach not only fosters a deeper understanding of the material but also builds a strong sense of community within the class."
 
-**Professor Liao's Teaching Strengths:**
+"Professor Liao's Teaching Strengths:
 - Extremely organized course website and slides
 - Slides are very easy to read and understand, which is extremely helpful and makes them a wonderful study resource when preparing for exams
 - Has discussion forums and keeps a class email open for questions and concerns, which has been extremely helpful for me
-- Encourages students to think beyond the limitations of the course (i.e., incorporating the growth and popularity of AI into course material, etc.)
+- Encourages students to think beyond the limitations of the course (i.e., incorporating the growth and popularity of AI into course material, etc.)"
