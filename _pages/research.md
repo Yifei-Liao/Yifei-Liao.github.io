@@ -13,7 +13,7 @@ author_profile: true
 ## **Publication**
 **Using Machine Learning to Measure Conservatism**  
 - Co-authors: Jeremy Bertomeu, Edwige Cheynel, Mario Milone
-- Forthcoming at *Management Science*
+- Forthcoming at **Management Science**
   
 ## **Job Market Paper**
 **Mandatory Pay Range Disclosure and Firm Information Environment**  
