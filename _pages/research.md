@@ -13,7 +13,7 @@ author_profile: true
 ## **Publication**
 **Using Machine Learning to Measure Conservatism**  
 - Co-authors: Jeremy Bertomeu, Edwige Cheynel, Mario Milone
-- Forthcoming at **Management Science**
+- Forthcoming at ***Management Science***
   
 ## **Job Market Paper**
 **Mandatory Pay Range Disclosure and Firm Information Environment**  
@@ -31,7 +31,7 @@ author_profile: true
 - Presentations: UC Irvine (2021); University of South Carolina (2024)*; CAAA Annual Meeting (2024); AAA Annual Meeting (2024); AAA Spark (2024); FMA (2024)  
 *Presented by a coauthor  
 - Semifinalist for the Best Paper Award at the 2024 FMA Annual Meeting  
-- Ready for submission to *Management Science*
+- Ready for submission to ***Management Science***
 
 ## **Work-in-Progress**
 
