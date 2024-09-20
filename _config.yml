@@ -27,7 +27,6 @@ author:
   bio              : "Ph.D. Candidate in Accounting at Merage Business School, University of California, Irvine"
   location         : "Irvine, CA"
   email            : "yliao18@uci.edu" 
-  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480"
 
   # Academic websites
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -36,6 +35,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
