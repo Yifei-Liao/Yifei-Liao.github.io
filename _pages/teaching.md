@@ -39,8 +39,6 @@ author_profile: true
 
 "Professor Liao stimulates the students to use their brain every day within the course. He ensures that students show up to class, unlike other classes I've been in. He is passionate about teaching and relays the information in a way that all students can grasp it and allows for students to ask questions during the lectures. He offers a clear explanation so that other students can understand as well. The slides he creates are informative and clear. Announcements are also easily accessible to all. Emails are answered rapidly, professionally, and with clear answers. He is understanding and genuinely cares to help the students learn."
 
-"The instructor demonstrates remarkable patience, making even the most complex topics approachable and understandable. Their sense of humor brings a refreshing and engaging atmosphere to the classroom, making learning enjoyable. The instructor genuinely cares about the students, always taking the time to ensure everyone feels supported and understood. They actively encourage participation, creating an inclusive environment where every student's voice is valued. This approach not only fosters a deeper understanding of the material but also builds a strong sense of community within the class."
-
 "Professor Liao's Teaching Strengths:
 - Extremely organized course website and slides
 - Slides are very easy to read and understand, which is extremely helpful and makes them a wonderful study resource when preparing for exams
