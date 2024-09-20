@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Candidate in Accounting at Merage Business School, University of California, Irvine"
   location         : "Irvine, CA"
   email            : "yliao18@uci.edu" 
-  SSRN             : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4834480"
 
   # Academic websites
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
