@@ -12,25 +12,20 @@ author_profile: true
 - Financial Accounting
 
 ## Instructor, UC Irvine
-**Managerial Accounting**  
-- August 2024  
+**Managerial Accounting (2024)**   
 - Teaching Evaluation: 3.80 out of 4.00
 
 ## Teaching Assistant, UC Irvine
-**Data Analytics for Audit**  
-- 2024  
+**Data Analytics for Audit (2024)**   
 - Teaching Evaluation: 4.00 out of 4.00
 
-**Intro to Data Analytics for Accounting**  
-- 2024  
+**Intro to Data Analytics for Accounting (2024)**  
 - Teaching Evaluation: 3.91 out of 4.00
 
-**Financial Statement Analysis**  
-- 2023  
+**Financial Statement Analysis (2023)**  
 - Teaching Evaluation: 3.99 out of 4.00
 
-**Intermediate Financial Accounting**  
-- 2021–2023  
+**Intermediate Financial Accounting (2021-2023)**  
 - Most recent teaching evaluation: 3.83 out of 4.00
 
 ## Student Feedback for Managerial Accounting
