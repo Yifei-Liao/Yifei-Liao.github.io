@@ -38,6 +38,6 @@ author_profile: true
 **Attention Allocation Systems**
 - Co-authors: Ed deHaan, Yifan Li, Ben Lourie, Chenqi Zhu
 
-**I am also working on some Generative AI projects that cannot be disclosed at this time...**
+**I am also working on some Generative AI and machine learning projects that cannot be disclosed at this time...**
   
 
